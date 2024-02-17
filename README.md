@@ -12,12 +12,12 @@
 ## Experimentación
 - Código relacionado a la experimentación de la región de N. Virginia `us-east-1`.
   - Repositorio: https://github.com/senabi/unstable-cache-us-east-1-vercel
-  - Sitio Web: https://unstable-cache-us-east-1-vercel.vercel.app/
+  - Sitio Web: https://unstable-cache-us-east-1-vercel.vercel.app/close/uncached
 - Código relacionado a la experimentación de la región de São Paulo `sa-east-1`.
   - Repositorio: https://github.com/senabi/unstable-cache-sa-east-1-vercel
-  - Sitio Web: https://unstable-cache-sa-east-1-vercel.vercel.app/
+  - Sitio Web: https://unstable-cache-sa-east-1-vercel.vercel.app/close/uncached
 - Código relacionado a la experimentación de `edge`
   - Repositorio: https://github.com/senabi/incremental-cache-next
   - Sitio web: https://incremental-cache-next.pages.dev/
   - Ruta simulando acceso a fuente de datos: https://incremental-cache-next.pages.dev/far/uncached
-  - Ruta usando caché: https://incremental-cache-next.pages.dev/far/cached/cache-api https://incremental-cache-next.pages.dev/far/cached/kv
+  - Rutas usando caché: https://incremental-cache-next.pages.dev/far/cached/cache-api - https://incremental-cache-next.pages.dev/far/cached/kv
