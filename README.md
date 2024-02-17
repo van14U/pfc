@@ -17,3 +17,6 @@
 - Código relacionado a la experimentación de `edge`
   - Repositorio: https://github.com/senabi/incremental-cache-next
   - Sitio web: https://incremental-cache-next.pages.dev/
+
+## Descargar todo el código de los repositorios
+https://drive.google.com/file/d/1D2lK-qZKLRjVAmlqAvO_89WufFQEtnb8/view?usp=sharing
