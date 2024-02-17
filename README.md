@@ -2,7 +2,10 @@
 
 ## Módulo Cache adaptado a edge
 
-- Código relacionado sólo al módulo: https://github.com/senabi/incremental-cache-next/tree/main/src/lib/cache
+- Código relacionado *sólo al módulo*: https://github.com/senabi/incremental-cache-next/tree/main/src/lib/cache.
+  - Repositorio donde se utilizó el módulo:
+    - Integrado con framework de JS Next.JS https://github.com/senabi/incremental-cache-next
+    - Integrado con framework de JS Astro https://github.com/senabi/astro-incremental-cache
 
 ## Experimentación
 - Código relacionado a la experimentación de la región de N. Virginia `us-east-1`.
