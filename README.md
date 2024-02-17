@@ -1,4 +1,6 @@
 > **Lista de repositorios utilizados para el desarrollo de la propuesta y experimentación de PFC**
+> 
+> Todo el código en uno solo zip: https://drive.google.com/file/d/1D2lK-qZKLRjVAmlqAvO_89WufFQEtnb8/view?usp=sharing
 
 ## Módulo Cache adaptado a edge
 
@@ -17,6 +19,5 @@
 - Código relacionado a la experimentación de `edge`
   - Repositorio: https://github.com/senabi/incremental-cache-next
   - Sitio web: https://incremental-cache-next.pages.dev/
-
-## Descargar todo el código de los repositorios
-https://drive.google.com/file/d/1D2lK-qZKLRjVAmlqAvO_89WufFQEtnb8/view?usp=sharing
+  - Ruta simulando acceso a fuente de datos: https://incremental-cache-next.pages.dev/far/uncached
+  - Ruta usando caché: https://incremental-cache-next.pages.dev/far/cached/cache-api https://incremental-cache-next.pages.dev/far/cached/kv
